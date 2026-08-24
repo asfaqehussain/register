@@ -1,6 +1,8 @@
 {
+  "description": "Asfaqe's Portfolio",
   "owner": {
-    "username": "asfaqehussain"
+    "username": "asfaqehussain",
+    "email": "asfaqeh@gmail.com"
   },
   "records": {
     "A": [
